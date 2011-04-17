@@ -1,0 +1,1 @@
+Ottawa IT Code Camp demo on Rhino Mocks 16 April 2011

@@ -1,0 +1,9 @@
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo.Tests\bin\Debug\OttItCampDemo.Tests.dll.config
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo.Tests\bin\Debug\OttItCampDemo.Tests.dll
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo.Tests\bin\Debug\OttItCampDemo.Tests.pdb
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo.Tests\bin\Debug\OttItCampDemo.dll
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo.Tests\bin\Debug\Rhino.Mocks.dll
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo.Tests\bin\Debug\OttItCampDemo.pdb
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo.Tests\obj\Debug\OttItCampDemo.Tests.dll
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo.Tests\obj\Debug\OttItCampDemo.Tests.pdb

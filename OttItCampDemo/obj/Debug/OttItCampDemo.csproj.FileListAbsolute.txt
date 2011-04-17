@@ -1,0 +1,5 @@
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo\bin\OttItCampDemo.dll
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo\bin\OttItCampDemo.pdb
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo\obj\Debug\OttItCampDemo.dll
+c:\users\costco\documents\visual studio 2010\Projects\OttItCampDemo\OttItCampDemo\obj\Debug\OttItCampDemo.pdb
